@@ -1,0 +1,202 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-07-24T12:00:00.000Z",
+  "folders": [
+    {
+      "id": "fold_1",
+      "name": "ترم 1",
+      "color": 4278232575
+    },
+    {
+      "id": "fold_2",
+      "name": "ترم 2",
+      "color": 4278255365
+    },
+    {
+      "id": "fold_3",
+      "name": "ترم 3",
+      "color": 4294956803
+    },
+    {
+      "id": "fold_4",
+      "name": "ترم 4",
+      "color": 4294956803
+    },
+    {
+      "id": "fold_5",
+      "name": "ترم 5",
+      "color": 4294956803
+    },
+    {
+      "id": "fold_6",
+      "name": "ترم 6",
+      "color": 4294956803
+    },
+    {
+      "id": "fold_7",
+      "name": "ترم 7",
+      "color": 4294956803
+    },
+    {
+      "id": "fold_8",
+      "name": "ترم 8",
+      "color": 4294956803
+    }
+  ],
+  "subjects": [
+    {
+      "id": "subj_1",
+      "name": "ریاضی 1",
+      "description": "اعداد مختلط، تابع، مشتق، کاربرد مشتق، انتگرال، کاربرد انتگرال",
+      "iconCodePoint": 57403,
+      "iconFontFamily": "MaterialIcons",
+      "color": 4278232575,
+      "folderIds": [
+        "fold_1"
+      ],
+      "flashcardIds": []
+    },
+    {
+      "id": "subj_2",
+      "name": "فیزیک 1",
+      "description": "مکانیک و گرما",
+      "iconCodePoint": 59475,
+      "iconFontFamily": "MaterialIcons",
+      "color": 4278255365,
+      "folderIds": [
+        "fold_1"
+      ],
+      "flashcardIds": []
+    },
+    {
+      "id": "subj_3",
+      "name": "شیمی عمومی 1",
+      "description": "اعداد علمی و ...",
+      "iconCodePoint": 59404,
+      "iconFontFamily": "MaterialIcons",
+      "color": 4294956803,
+      "folderIds": [
+        "fold_1"
+      ],
+      "flashcardIds": []
+    },
+    {
+      "id": "subj_4",
+      "name": "مبانی کامپیوتر",
+      "description": "مبانی برنامه‌نویسی",
+      "iconCodePoint": 58147,
+      "iconFontFamily": "MaterialIcons",
+      "color": 4288420077,
+      "folderIds": [
+        "fold_1"
+      ],
+      "flashcardIds": []
+    },
+    {
+      "id": "subj_5",
+      "name": "فیزیک 2",
+      "description": "الکتریسیته و میدان",
+      "iconCodePoint": 58371,
+      "iconFontFamily": "MaterialIcons",
+      "color": 4294903406,
+      "folderIds": [
+        "fold_2"
+      ],
+      "flashcardIds": []
+    },
+    {
+      "id": "subj_6",
+      "name": "ریاضی 2",
+      "description": "انتگرال و سری",
+      "iconCodePoint": 57370,
+      "iconFontFamily": "MaterialIcons",
+      "color": 4278232575,
+      "folderIds": [
+        "fold_2"
+      ],
+      "flashcardIds": []
+    },
+    {
+      "id": "subj_7",
+      "name": "معادلات دیفرانسیل",
+      "description": "معادلات درجه اول و دوم و تبدیلات لاپلاس",
+      "iconCodePoint": 57950,
+      "iconFontFamily": "MaterialIcons",
+      "color": 4278255365,
+      "folderIds": [
+        "fold_2"
+      ],
+      "flashcardIds": []
+    },
+    {
+      "id": "subj_8",
+      "name": "فیزیک نور",
+      "description": "تداخل و پراش",
+      "iconCodePoint": 58619,
+      "iconFontFamily": "MaterialIcons",
+      "color": 4294956803,
+      "folderIds": [
+        "fold_2"
+      ],
+      "flashcardIds": []
+    },
+    {
+      "id": "subj_9",
+      "name": "امنیت سایبری",
+      "description": "رمزنگاری و پروتکل‌های امنیتی",
+      "iconCodePoint": 58895,
+      "iconFontFamily": "MaterialIcons",
+      "color": 4294903406,
+      "folderIds": [
+        "fold_3"
+      ],
+      "flashcardIds": []
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_1",
+      "subjectId": "subj_1",
+      "front": "قانون اول ماکسول چیست؟",
+      "back": "∇·E = ρ/ε₀",
+      "createdAt": "2026-07-24T12:00:00.000Z",
+      "reviewCount": 0,
+      "lastReviewed": null,
+      "isMastered": false,
+      "isFavorite": null
+    },
+    {
+      "id": "fc_2",
+      "subjectId": "subj_1",
+      "front": "قانون دوم ماکسول چیست؟",
+      "back": "∇×E = -∂B/∂t",
+      "createdAt": "2026-07-24T12:00:00.000Z",
+      "reviewCount": 0,
+      "lastReviewed": null,
+      "isMastered": false,
+      "isFavorite": null
+    },
+    {
+      "id": "fc_3",
+      "subjectId": "subj_2",
+      "front": "قانون شکست نور؟",
+      "back": "n₁sinθ₁ = n₂sinθ₂",
+      "createdAt": "2026-07-24T12:00:00.000Z",
+      "reviewCount": 0,
+      "lastReviewed": null,
+      "isMastered": false,
+      "isFavorite": null
+    },
+    {
+      "id": "fc_4",
+      "subjectId": "subj_3",
+      "front": "آیا پنیر یک عنصر است؟",
+      "back": "نه خیر",
+      "createdAt": "2026-07-25T12:00:00.000Z",
+      "reviewCount": 0,
+      "lastReviewed": null,
+      "isMastered": false,
+      "isFavorite": null
+    }
+  ]
+}
