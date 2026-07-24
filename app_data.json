@@ -197,6 +197,17 @@
       "lastReviewed": null,
       "isMastered": false,
       "isFavorite": null
+    },
+    {
+      "id": "fc_5",
+      "subjectId": "subj_4",
+      "front": "دستور پرینت برای چیست؟",
+      "back": "برای چاپ کردن در کنسول",
+      "createdAt": "2026-07-25T12:00:00.000Z",
+      "reviewCount": 0,
+      "lastReviewed": null,
+      "isMastered": false,
+      "isFavorite": null
     }
   ]
 }
